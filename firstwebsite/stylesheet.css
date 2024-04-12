@@ -1,0 +1,31 @@
+h1{
+    color: black;
+}
+h2{
+    text-align:justify;
+}
+li {
+    display: inline;
+    float:left;
+    border: 1px solid black;
+  }
+  a{
+    display: block;
+    padding: 0px;
+    background-color: aqua;
+  }
+  ul{
+    margin: 10px;
+    padding:0px;
+  
+  }
+  li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    padding:1px;
+    text-decoration:solid ;
+  }
+  p{
+    color: darkblue;
+  }
